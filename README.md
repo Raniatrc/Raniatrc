@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm TRACHE RANIA 👋</h1>
-<h3 align="center">Full Stack Developer | Building Custom Web Solutions for Businesses | AI Master's student</h3>
+<h1 align="center">Hi, I'm Rania Trache 👋</h1>
+<h3 align="center">Full Stack Developer | Building Custom Web Solutions for Businesses | AI Master's Student</h3>
 
 <p align="center">
 I build custom web applications and websites that help businesses save time and work smarter,<br>
@@ -21,9 +21,13 @@ from management platforms and dashboards to AI-powered solutions.<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -36,8 +40,8 @@ from management platforms and dashboards to AI-powered solutions.<br>
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **Coffee Shop Manager** *(in progress)* | QR code menu, online ordering, order tracking and owner dashboard for cafés | Django · JavaScript · Docker |
-| **University Research Platform** *(team project)* | Final-year project (team of 5): a platform that helps university researchers manage courses, grades, articles and emails. I worked on the AI side: LLM API integration, prompt engineering and the AI assistant that answers students' questions | Python · FastAPI · React · PostgreSQL · LLM APIs |
-| **[Medical Office Management](https://github.com/Raniatrc/CabinetMedicalPOO)** | Patients, appointments and records for a medical practice | Java |
+| **Smart-S** *(team project, 5 people)* | Final-year project: a platform that automates teacher-researchers' daily tasks (grading, grades, emails, articles). My role: AI & OCR, with Gemini API integration for automated answer-sheet grading, prompt engineering and an AI assistant for students | React · Node.js · Flask · PostgreSQL · Gemini API · Docker |
+| **AutoMLC** *(team competition, in progress)* | U-Net model that segments brain tumors on MRI (Dice 0.918 in 5-fold cross-validation) and turns the contour into leaf positions for a robotic multileaf collimator. I built the full software side: AI, desktop app and ESP32 protocol | Python · PyTorch · OpenCV · ESP32 |
 
 ### 🎓 Background
 
