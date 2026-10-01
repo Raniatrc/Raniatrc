@@ -40,7 +40,7 @@ from management platforms and dashboards to AI-powered solutions.<br>
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **Coffee Shop Manager** *(in progress)* | QR code menu, online ordering, order tracking and owner dashboard for cafés | Django · JavaScript · Docker |
-| **Smart-S** *(team project, 5 people)* | Final-year project: a platform that automates teacher-researchers' daily tasks (grading, grades, emails, articles). My role: AI & OCR, with Gemini API integration for automated answer-sheet grading, prompt engineering and an AI assistant for students | React · Node.js · Flask · PostgreSQL · Gemini API · Docker |
+| **ACADEMIX** *(team project, 5 people)* | Final-year project: a platform that automates teacher-researchers' daily tasks (grading, grades, emails, articles). My role: AI & OCR, with Gemini API integration for automated answer-sheet grading, prompt engineering and an AI assistant for students | React · Node.js · Flask · PostgreSQL · Gemini API · Docker |
 | **AutoMLC** *(team competition, in progress)* | U-Net model that segments brain tumors on MRI (Dice 0.918 in 5-fold cross-validation) and turns the contour into leaf positions for a robotic multileaf collimator. I built the full software side: AI, desktop app and ESP32 protocol | Python · PyTorch · OpenCV · ESP32 |
 
 ### 🎓 Background
